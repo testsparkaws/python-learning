@@ -1,0 +1,28 @@
+
+# Section  5: Strings 
+# Section  7: Program Flow Control
+# Section  8: Loops 
+# Section 10: Lists 
+# Section 12: Tuples
+# Section 14: Dictionaries
+# Section 16: Functions
+# Section 18: Working with text Files 
+# Section 20: Errors and Exception Handling
+# Section 21: Object Oriented Programming: Classes and Object
+# Section 22: Your first Milestone
+# Section 24: Working with Python Modules
+# Section 25: Very Useful Built-in Modules
+# Section 26: Decorators in Python
+# Section 27: Working with CSV Files in Python
+# Section 29: Data Serialization and Deserialization ( Pickle and JSON)
+# Section 30: Working with Excel Files
+# Section 31:
+# Section 32: Working with SQL Databases
+# Section 33: Data Analysis with Pandas
+# Section 34: Creating Web INterfaces(Front-Ends) using Streamlit
+# Section 35: INteractive Data Visualization with Plotly
+# Section 36: Requests and Web Scraping with Python
+# Section 37: Python Multiprocessing and Multithreading in Depth
+# Section 38: Building Concurrent Application using Async IO
+# Section 39: Network Automation with Python
+# Section 40: Bonus Section
